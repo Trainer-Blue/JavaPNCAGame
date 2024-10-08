@@ -29,13 +29,13 @@ JavaPNCAGame is a Java-based project designed to provide a fun and interactive g
    Open the project in NetBeans or your preferred IDE.
 2. Run the project by executing the main class.
 
-#Usage
+# Usage
 
 Once installed, launch the game through your IDE (like NetBeans) or by compiling and running the main class through the terminal.
 
 Customize game background and resource files by modifying files in the src/main/resources folder.
 
-#Screenshots
+# Screenshots
 If possible, include screenshots of your game to show the interface:
 
 
