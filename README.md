@@ -39,11 +39,12 @@ Customize game background and resource files by modifying files in the src/main/
 If possible, include screenshots of your game to show the interface:
 
 
-Contributing
+# Contributing
 Feel free to contribute to this project by:
 
 Forking the repository.
 Creating a new branch.
 Submitting a pull request for review.
 
+# Thank You!
 Enjoy the game and feel free to share feedback!
